@@ -1,0 +1,110 @@
+2026-05-15 12:55:01,370 | INFO | POST /register — username=n02421549b@students.nust.ac.zw
+2026-05-15 12:55:01,642 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 12:55:06,666 | INFO | POST /register — username=n02421549b@students.nust.ac.zw
+2026-05-15 12:55:06,671 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 12:55:16,919 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 12:55:16,971 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 12:55:55,647 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 12:55:55,759 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 12:56:20,723 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 12:56:20,727 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 13:03:01,149 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 13:03:01,152 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 13:03:13,753 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 13:03:14,017 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 13:03:42,345 | INFO | POST /register — username=MalconLiel
+2026-05-15 13:03:42,352 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:03:53,434 | INFO | POST /register — username=MalconLiel
+2026-05-15 13:03:53,465 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:03:55,401 | INFO | POST /register — username=MalconLiel
+2026-05-15 13:03:55,505 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:04:00,305 | INFO | POST /register — username=MalconLiel
+2026-05-15 13:04:00,308 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:04:01,651 | INFO | POST /register — username=MalconLiel
+2026-05-15 13:04:01,654 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:12:56,396 | INFO | POST /login — username=n02421549b@students.nust.ac.zw
+2026-05-15 13:12:56,437 | WARNING | Login failed for username=n02421549b@students.nust.ac.zw
+2026-05-15 13:13:20,638 | INFO | POST /register — username=msimbi
+2026-05-15 13:13:20,641 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:13:28,490 | INFO | POST /register — username=msimbi
+2026-05-15 13:13:28,493 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:13:29,531 | INFO | POST /register — username=msimbi
+2026-05-15 13:13:29,536 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:13:30,804 | INFO | POST /register — username=msimbi
+2026-05-15 13:13:30,806 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:14:49,222 | INFO | POST /register — username=msimbi
+2026-05-15 13:14:49,226 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:14:58,299 | INFO | POST /register — username=Jsimbi
+2026-05-15 13:14:58,309 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-15 13:14:59,920 | INFO | POST /register — username=Jsimbi
+2026-05-15 13:14:59,922 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\thE b0Yz\Desktop\todo-app\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
