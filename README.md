@@ -98,11 +98,6 @@ Install the following before running the project:
 | Node.js | 18+     |
 | npm     | 9+      |
 
-Downloads:
-
-* Python: https://www.python.org/downloads/
-* Node.js: https://nodejs.org/
-
 ---
 
 # Backend Setup (FastAPI)
@@ -117,34 +112,20 @@ cd backend
 
 ## 2. Create a virtual environment
 
-### Windows (PowerShell)
+###(PowerShell)
 
 ```powershell
 python -m venv venv
 ```
 
-### macOS / Linux
-
-```bash
-python3 -m venv venv
-```
-
----
 
 ## 3. Activate the virtual environment
 
-### Windows (PowerShell)
+###(PowerShell)
 
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
-
-### macOS / Linux
-
-```bash
-source venv/bin/activate
-```
-
 ---
 
 ## 4. Install backend dependencies
